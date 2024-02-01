@@ -49,8 +49,8 @@ features = [
     ("Tenure:", "tenure"),
     ("Balance:", "balance"),
     ("Products Number:", "products_number"),
-    ("Credit Card 1:", "credit_card_1"),
-    ("Active Member 1:", "active_member_1"),
+    ("Credit Card:", "credit_card_1"),
+    ("Active Member:", "active_member_1"),
     ("Estimated Salary:", "estimated_salary"),
 ]
 
