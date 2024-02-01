@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
    python api.py
    ```
 
-6. Open a new terminal (cmd).
+6. Open a new terminal (cmd) without closing the terminal in which your API file (api.py) is running.
 
 7. Activate the already created virtual environment:
    ```bash
