@@ -1,6 +1,6 @@
 # Machine Learning Project
 
-Welcome to MyProject! This repository contains a project that includes an API and a GUI model for predictive analysis.
+Welcome to Customer Churn Prediction This repository contains a project that includes an API and a GUI model for predictive analysis.
 
 ## Getting Started
 
