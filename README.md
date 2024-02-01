@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 6. Open a new terminal (cmd) without closing the terminal in which your API file (api.py) is running.
 
-7. Activate the already created virtual environment:
+7. Activate the already created virtual environment in this second terminal:
    ```bash
    .\myenv\Scripts\activate
    ```
